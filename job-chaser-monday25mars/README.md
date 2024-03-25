@@ -1,3 +1,7 @@
+
+
+TODO:
+- Svara på Teori frågorna
 - Installera Redux Toolkit
 - Koppla in Redux Toolkit
 - "Gömma" Saved jobs från nav om man inte är inloggad
